@@ -18,7 +18,7 @@ It has three functions:
 
 ## 2. Usage instructions
 
-* Install the required libraries with the command: `pip install -r reqirements.txt`
+* Install the required libraries with the command: `pip install -r requirements.txt`
 * The database file does not need to exist beforehand; if it is missing, the program creates it itself
 * Before running, look into the code and enter the appropriate values (according to your preferences):
   * **TARGETS[]** : list of domains used as connection points
